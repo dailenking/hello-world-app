@@ -5,7 +5,7 @@ Included in the repository is the Android pre-work for the CodePath Mobile
 Product Development course. :)
 
 ### App Walk-though
-
+![PREWORKGIF](https://user-images.githubusercontent.com/69405271/103844978-18098f80-5069-11eb-80cb-759b0fc9bd05.gif)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
